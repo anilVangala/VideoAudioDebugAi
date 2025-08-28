@@ -4,6 +4,7 @@
     <!-- Needed for Gemini REST + uploads -->
     <uses-permission android:name="android.permission.INTERNET" />
 
+
     <!-- Camera & audio for recording -->
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
